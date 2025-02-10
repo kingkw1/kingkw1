@@ -5,14 +5,14 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 
 ## 🔍 Currently exploring:
 
-- Generative AI & LLMs for code analysis and autonomous agents
+- AI-driven AR/VR simulations and player behavior analysis
 - AI for emotion-aware computing and multimodal learning (audio, video, text)
+- Generative AI & LLMs for code analysis and autonomous agents
 - Reinforcement learning applied to human-agent collaboration
-- AI-driven AR/VR simulations and player behavior analysis  
 
 ## 🛠️ Projects
 
-### Human-State Aware AI for Adaptive Technology (Simulations using AR/VR/Desktop)
+### 🎭 Human-State Aware AI for Adaptive Technology (Simulations using AR/VR/Desktop)
 
 🔹 Developed an AI model for recognizing human emotions from physiological and behavioral signals in VR environments.
 
@@ -25,7 +25,7 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 - <a href="https://ieeexplore.ieee.org/document/10394383"> Latent State Synchronization in Dyadic Partners using EEG </a>
 - <a href="https://iopscience.iop.org/article/10.1088/1741-2552/acee20/pdf"> Decoding neural activity to assess individual latent state in ecologically valid contexts </a>
 
-### Multimodal AI for Behavioral Analysis
+### 📊 Multimodal AI for Behavioral Analysis
 
 🔹 Created machine learning models to analyze team dynamics, integrating speech, video, and physiological data for real-time insights.
 
@@ -36,13 +36,25 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 - <a href="https://ieeexplore.ieee.org/document/10394167"> Granger Leadership in a Novel Dyadic Search Paradigm </a>
 - <a href="https://aaquibtabrez.github.io/assets/pdf/publications/xhri24.pdf"> Hierarchical Multi-Agent Reinforcement Learning with Explainable Decision Support for Human-Robot Teams </a>
 
-### Codebase Chatbot (LLM-Powered Repository Analysis)
+### 🎤 Codebase Chatbot (LLM-Powered Repository Analysis)
 
 🔹 AI-powered chatbot that analyzes codebases, extracts key functions, and generates insightful recommendations.
 
 🔹 Uses LLMs, embeddings, and FAISS-based retrieval for efficient search.
 
 🔹 Tech: Python, Flask, FAISS, PyTorch, OpenAI API, Ollama
+
+### 🧠Neural Engineering for Neurorehabilitation
+
+🔹 Developed neuromodulation techniques to restore motor function, using dorsal root ganglia (DRG) microstimulation to evoke postural responses and closed-loop neuromuscular stimulation for grasp force control.
+
+🔹 Investigated somatosensory feedback restoration through microstimulation and designed a wearable textile-based electrode system to regulate precise finger movements in individuals with quadriplegia.
+
+🔹 Tech: Python, MATLAB, Signal Processing, Neural Interfaces, Closed-Loop Control
+
+- <a href="https://link.springer.com/article/10.1186/s42234-019-0034-y"> Closed-loop neuromuscular electrical stimulation using feedforward-feedback control and textile electrodes to regulate grasp force in quadriplegia </a>
+- <a href="https://iopscience.iop.org/article/10.1088/1741-2552/acee20/pdf"> DRG microstimulation evokes postural responses in awake, standing felines </a>
+
 
 ## 📌 Skills & Tools
 
@@ -59,4 +71,4 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 
 If you're interested in AI, reinforcement learning, multimodal ML, or AR/VR research, let's connect!
 
-👉 <a href="linkedin.com/in/kingkw1"> LinkedIn </a> | ✉️ king.kevin.w@gmail.com
+👉 <a href="linkedin.com/in/kingkw1"> LinkedIn </a> | 📫 king.kevin.w@gmail.com
