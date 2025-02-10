@@ -20,6 +20,8 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 
 🔹 Tech: Unity, Python, PyTorch, TensorFlow
 
+![](https://github.com/kingkw1/public_media/blob/main/gifs/bomb_defusal_looping.gif)
+
 - <a href="https://ieeexplore.ieee.org/document/10394167"> Granger Leadership in a Novel Dyadic Search Paradigm </a>
 - <a href="https://openaccess.cms-conferences.org/publications/book/978-1-964867-13-7/article/978-1-964867-13-7_5"> Using Multi-Modal Physiological Markers and Latent States to Understand Team Performance and Collaboration </a>
 - <a href="https://ieeexplore.ieee.org/document/10394383"> Latent State Synchronization in Dyadic Partners using EEG </a>
@@ -51,6 +53,8 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 🔹 Investigated somatosensory feedback restoration through microstimulation and designed a wearable textile-based electrode system to regulate precise finger movements in individuals with quadriplegia.
 
 🔹 Tech: Python, MATLAB, Signal Processing, Neural Interfaces, Closed-Loop Control
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs42234-019-0034-y/MediaObjects/42234_2019_34_Fig3_HTML.png?as=webp)
 
 - <a href="https://link.springer.com/article/10.1186/s42234-019-0034-y"> Closed-loop neuromuscular electrical stimulation using feedforward-feedback control and textile electrodes to regulate grasp force in quadriplegia </a>
 - <a href="https://iopscience.iop.org/article/10.1088/1741-2552/acee20/pdf"> DRG microstimulation evokes postural responses in awake, standing felines </a>
