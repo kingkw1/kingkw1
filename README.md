@@ -19,8 +19,11 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 **Hackathon finalist | HP & NVIDIA Developer Challenge 2025**
 
 🔹 Built a privacy-preserving system for real-time **emotion inconsistency detection** in telehealth.
+
 🔹 Combines **facial expression**, **vocal tone**, and **spoken text** into an **Emotional Consistency Index (ECI)**.
+
 🔹 Runs locally using HP AI Studio and NVIDIA RTX acceleration for full patient data security.
+
 🔹 Tech: Whisper (ASR), DeepFace, Hugging Face Transformers, Streamlit, MLflow, OpenCV
 
 ![](https://github.com/kingkw1/AffectLink/blob/main/assets/thumbnail.png)
