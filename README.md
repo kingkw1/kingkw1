@@ -16,7 +16,7 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 
 ### ❤️ AffectLink: Multimodal Emotion Consistency Tracking for Telehealth
 
-**Hackathon submission | HP & NVIDIA Developer Challenge 2025**
+🏆 **Winner – 1st Place, HP & NVIDIA Developer Challenge 2025**
 
 🔹 Built a privacy-preserving system for real-time **emotion inconsistency detection** in telehealth.
 
