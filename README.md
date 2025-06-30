@@ -38,7 +38,7 @@ AI Researcher | Machine Learning Engineer | Human-AI Interaction Enthusiast
 
 🔹 Used EEG, eye-tracking, and reinforcement learning to adapt virtual scenarios based on user state.
 
-🔹 Tech: Unity, Python, PyTorch, TensorFlow
+🔹 Tech: Unreal Engine, Python, PyTorch, TensorFlow
 
 ![](https://github.com/kingkw1/public_media/blob/main/gifs/bomb_defusal_looping.gif)
 
