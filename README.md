@@ -79,7 +79,7 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs42234-019-0034-y/MediaObjects/42234_2019_34_Fig3_HTML.png?as=webp)
 
 *   [Closed-loop neuromuscular electrical stimulation using feedforward-feedback control and textile electrodes to regulate grasp force in quadriplegia](https://link.springer.com/article/10.1186/s42234-019-0034-y) (Journal of NeuroEngineering and Rehabilitation, 2019)
-*   [DRG microstimulation evokes postural responses in awake, standing felines](https://iopscience.iop.org/article/10.1088/1741-2552/acee20/pdf) (Journal of Neural Engineering, 2024)
+*   [DRG microstimulation evokes postural responses in awake, standing felines](https://iopscience.iop.org/article/10.1088/1741-2552/ab50f4/pdf) (Journal of Neural Engineering, 2019)
 
 ---
 
