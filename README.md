@@ -19,7 +19,9 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 *   **Core Functionality:** Combines **facial expression**, **vocal tone**, and **speech content** into an **Emotional Consistency Index (ECI)**.
 *   **Tech:** Python, PyTorch, Whisper, DeepFace, Hugging Face Transformers, Streamlit, MLflow, OpenCV, Flask, FAISS, Ollama
 
-![](https://github.com/kingkw1/AffectLink/blob/main/assets/thumbnail.png)
+<p align="center">
+    <img src="https://github.com/kingkw1/public_media/blob/main/gifs/bomb_defusal_looping.gif" alt="Bomb Defusal Looping GIF"/>
+</p>
 
 *   [📝 GitHub Repository](https://github.com/kingkw1/AffectLink)
 *   [🎥 Hackathon Demo Video](https://www.youtube.com/watch?v=rzp9CGChHJ4)
