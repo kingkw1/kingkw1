@@ -19,9 +19,7 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 *   **Core Functionality:** Combines **facial expression**, **vocal tone**, and **speech content** into an **Emotional Consistency Index (ECI)**.
 *   **Tech:** Python, PyTorch, Whisper, DeepFace, Hugging Face Transformers, Streamlit, MLflow, OpenCV, Flask, FAISS, Ollama
 
-<p align="center">
-    <img src="https://github.com/kingkw1/public_media/blob/main/gifs/bomb_defusal_looping.gif" alt="Bomb Defusal Looping GIF"/>
-</p>
+![](https://github.com/kingkw1/AffectLink/blob/main/assets/thumbnail.png)
 
 *   [📝 GitHub Repository](https://github.com/kingkw1/AffectLink)
 *   [🎥 Hackathon Demo Video](https://www.youtube.com/watch?v=rzp9CGChHJ4)
@@ -46,7 +44,9 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 *   **Core Functionality:** The model uses EEG, eye-tracking, and behavioral cues to infer user state, leveraging reinforcement learning to dynamically adjust the simulation.
 *   **Tech:** Unreal Engine, Python, PyTorch, TensorFlow, Reinforcement Learning, EEG/Physiological Signal Processing
 
-![](https://github.com/kingkw1/public_media/blob/main/gifs/bomb_defusal_looping.gif)
+<p align="center">
+    <img src="https://github.com/kingkw1/public_media/blob/main/gifs/bomb_defusal_looping.gif" alt="Bomb Defusal Looping GIF"/>
+</p>
 
 *   [Using Multi-Modal Physiological Markers and Latent States to Understand Team Performance and Collaboration](https://openaccess.cms-conferences.org/publications/book/978-1-964867-13-7/article/978-1-964867-13-7_5) (CSMR 2024)
 *   [Latent State Synchronization in Dyadic Partners using EEG](https://ieeexplore.ieee.org/document/10394383) (IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024)
