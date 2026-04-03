@@ -12,6 +12,25 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 
 ## 🚀 Featured Projects
 
+### 🫁 The Lung Listener: Native Multimodal AI for Respiratory Acoustics
+
+**Top 50 Winner | Google Gemini API Hackathon 2026**
+
+*   Selected by Google DeepMind from over 4,000 global submissions for pushing the boundaries of native multimodal reasoning.
+*   Bypasses standard text prompting to ingest and process raw clinical audio using **Gemini 3 Pro's native audio capabilities**.
+*   **Visualizes** respiratory acoustics (ICBHI database) via real-time spectrograms and **analyzes** pathology with millisecond precision.
+*   **Isolates** clinical signals by generating custom Python DSP filters to remove noise instantly.
+*   Tech: Gemini 3 Pro API, Python, Digital Signal Processing (DSP), React, WaveSurfer.js
+
+![](https://github.com/kingkw1/lung-listener/blob/main/assets/dashboard.png)
+
+* [📝 Kaggle Technical Write-up](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765574905570)
+* [💻 GitHub Repository](https://github.com/kingkw1/lung-listener)
+* [🎥 Hackathon Demo Video](https://www.youtube.com/watch?v=DeplSlKUGN4)
+* [🚀 Try the App on AI Studio](https://ai.studio/apps/drive/1mwEeTs57pYeME4xJuWNaXOxVR9NWiQpR)
+
+---
+
 ### ❤️ AffectLink: Multimodal Emotion Consistency Tracking for Telehealth
 🏆 **Winner – 1st Place, HP & NVIDIA Developer Challenge 2025**
 
