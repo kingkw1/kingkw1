@@ -50,6 +50,8 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 * Developed a Streamlit dashboard to evaluate recommendation footprint alignment (Cosine Similarity) and epsilon-greedy exploration strategies. 
 * *Tech: Python, Contextual Bandits, NLP/Embeddings, Streamlit, Plotly.*
 
+![](https://github.com/kingkw1/aspirational-rec-engine/blob/main/assets/dashboard.png)
+
 *   [📝 GitHub Repository](https://github.com/kingkw1/aspirational-rec-engine)
 *   [🚀 Streamlit Demo](https://aspirational-rec-engine.streamlit.app/)
 ---
