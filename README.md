@@ -44,6 +44,15 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 *   [🎥 Hackathon Demo Video](https://www.youtube.com/watch?v=rzp9CGChHJ4)
 
 ---
+### 🧭 Aspirational Recommendation Engine (Contextual Bandit)
+* Designed a proof-of-concept recommendation system for a digital health platform that optimizes for long-term user goals rather than just short-term engagement clicks.
+* Built a **Contextual Bandit architecture** that balances historical user behavior with an "aspirational state" extracted from conversational AI logs via NLP embeddings. 
+* Developed a Streamlit dashboard to evaluate recommendation footprint alignment (Cosine Similarity) and epsilon-greedy exploration strategies. 
+* *Tech: Python, Contextual Bandits, NLP/Embeddings, Streamlit, Plotly.*
+
+*   [📝 GitHub Repository](https://github.com/kingkw1/aspirational-rec-engine)
+*   [🚀 Streamlit Demo](https://aspirational-rec-engine.streamlit.app/)
+---
 
 ### 🎭 2Truths-1Lie: A Research Platform for Multimodal Deception Data (In-Progress)
 *   **Impact:** Pioneers a novel, engagement-driven approach to dataset generation for affective computing by creating a social video game to collect the largest open-source dataset of labeled multimodal emotion and deception data. This solves a critical bottleneck in multimodal AI research.
