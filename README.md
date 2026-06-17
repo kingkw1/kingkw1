@@ -44,6 +44,18 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 *   [🎥 Hackathon Demo Video](https://www.youtube.com/watch?v=rzp9CGChHJ4)
 
 ---
+
+### 🦉 Read-Along AI: The Offline Reading Teacher
+*   **Impact:** Built a privacy-preserving, gamified reading assistant for early learners that runs completely offline. Submitted to the Hugging Face Build Small Hackathon (Backyard AI track) to solve the friction of daily reading practice without the privacy risks of cloud servers.
+*   **Core Functionality:** Features a custom child-friendly UI and a dual-mode hybrid inference engine. Evaluates children's developing speech gently using a fine-tuned phonetic evaluator rather than strict ASR text matching.
+*   **Tech:** Python, Gradio, Cohere Transcribe, faster-whisper, OpenBMB VoxCPM, MiniCPM, llama.cpp, Modal, OpenAI Codex
+
+*   [📝 GitHub Repository](https://github.com/kingkw1/read-along-ai)
+*   [🚀 Live Hugging Face Space](https://huggingface.co/spaces/build-small-hackathon/read-along-ai)
+*   [🎥 Demo Video](https://youtu.be/4bpbwhipLU4)
+*   [📓 Developer Field Notes](https://dev.to/kingkw1/building-read-along-ai-field-notes-from-a-small-model-reading-tutor-3e11)
+
+---
 ### 🧭 Aspirational Recommendation Engine (Contextual Bandit)
 * Designed a proof-of-concept recommendation system for a digital health platform that optimizes for long-term user goals rather than just short-term engagement clicks.
 * Built a **Contextual Bandit architecture** that balances historical user behavior with an "aspirational state" extracted from conversational AI logs via NLP embeddings. 
