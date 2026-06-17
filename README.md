@@ -51,7 +51,7 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 *   **Tech:** Python, Gradio, Cohere Transcribe, faster-whisper, OpenBMB VoxCPM, MiniCPM, llama.cpp, Modal, OpenAI Codex
 
 <p align="center">
-    <img src="hhttps://github.com/kingkw1/read-along-ai/blob/main/data/assets/confetti.gif" alt="Dashboard Celebration GIF"/>
+    <img src="https://github.com/kingkw1/read-along-ai/blob/main/data/assets/confetti.gif" alt="Dashboard Celebration GIF"/>
 </p>
 
 
