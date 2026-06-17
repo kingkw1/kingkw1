@@ -50,10 +50,11 @@ I build and evaluate intelligent systems that sense, adapt to, and collaborate w
 *   **Core Functionality:** Features a custom child-friendly UI and a dual-mode hybrid inference engine. Evaluates children's developing speech gently using a fine-tuned phonetic evaluator rather than strict ASR text matching.
 *   **Tech:** Python, Gradio, Cohere Transcribe, faster-whisper, OpenBMB VoxCPM, MiniCPM, llama.cpp, Modal, OpenAI Codex
 
+![](https://github.com/kingkw1/read-along-ai/blob/main/data/assets/confetti.gif)
+
 *   [📝 GitHub Repository](https://github.com/kingkw1/read-along-ai)
-*   [🚀 Live Hugging Face Space](https://huggingface.co/spaces/build-small-hackathon/read-along-ai)
+*   [🚀 Live Hugging Face Space](https://huggingface.co/spaces/kingkw1/read-along-ai)
 *   [🎥 Demo Video](https://youtu.be/4bpbwhipLU4)
-*   [📓 Developer Field Notes](https://dev.to/kingkw1/building-read-along-ai-field-notes-from-a-small-model-reading-tutor-3e11)
 
 ---
 ### 🧭 Aspirational Recommendation Engine (Contextual Bandit)
